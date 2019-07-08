@@ -1,0 +1,18 @@
+#lacamentos{
+    width: 200px;
+    height: 200px;
+}
+
+  
+  @media only screen and (min-width: 993px) {
+    .container {
+      width: 90%;
+    }
+  }
+  
+#idcomeco { filter: brightness(60%);  }
+
+.video-fluid {
+  width: 45%;
+  height: auto;
+}
