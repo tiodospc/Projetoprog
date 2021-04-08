@@ -1,4 +1,6 @@
-# Filmow Project for the discipline of Programming II
+# Filmow
+
+<h2>Project for the discipline of Programming II<h2/>
 
 <h3>Description:</h3>
 <p>website for recommending films, synopse and upcoming releases</p>
